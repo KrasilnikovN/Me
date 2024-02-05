@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  body {
+    background-color: rgb(76, 89, 142);
+  }
+  footer {
+    background-color: rgb(90, 104, 107);
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 25px;
+    width: 100%;
+  }
+}
+.site__title {
+  font-size: 100px;
+  color: rgb(109, 201, 216);
+  text-align: center;
+}
+.header {
+  margin-top: 50px;
+  height: 100px;
+  width: auto;
+  background-color: rgb(6, 43, 197);
+  text-align: center;
+}
+.li {
+  padding-top: -15px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+.main {
+  color: rgb(160, 233, 246);
+}
+.hobby {
+  color: rgb(160, 233, 246);
+}
+.vk {
+  color: rgb(160, 233, 246);
+}
+.vk__img {
+  padding-top: 15px;
+  height: 60px;
+  width: 60px;
+}
+.foto__group {
+  margin-left: 20%;
+  display: inline-block;
+}
+.text {
+  font-size: 50px;
+  margin-top: 50px;
+  color: rgb(30, 210, 214);
+}
+.foto {
+  height: 600px;
+  width: 800px;
+}
+.hobby__text {
+  font-size: 200px;
+  text-align: center;
+}
