@@ -19,9 +19,12 @@
   text-align: center;
 }
 .header {
+  margin-left: 5%;
+  border-radius: 50px;
   margin-top: 50px;
   height: 100px;
-  width: auto;
+  width: 90%;
+  border-color: green;
   background-color: rgb(6, 43, 197);
   text-align: center;
 }
@@ -41,7 +44,7 @@
 .vk {
   color: rgb(160, 233, 246);
 }
-.vk__img {
+.link__img {
   padding-top: 15px;
   height: 60px;
   width: 60px;
