@@ -28,10 +28,12 @@
   background-color: rgb(6, 43, 197);
   text-align: center;
 }
+.li__ul {
+  list-style: none;
+}
 .li {
   padding-top: -15px;
   text-decoration: none;
-  display: inline-block;
   font-size: 50px;
   text-transform: uppercase;
 }
